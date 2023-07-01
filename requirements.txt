@@ -1,0 +1,12 @@
+python -m install --upgrade pip
+pip install streamlit
+pip install matplotlib
+pip install plotly
+pip install altair
+pip install pandas
+pip install numpy
+
+steps to run the file:
+in terminal 
+streamlit run 'path to main.py'
+this should open a browser with the data analysis to be shown in the same
